@@ -1,10 +1,8 @@
-# willz-transport-m365-admin-lab
-Microsoft 365 Administration Lab for a transport company using a Microsoft 365 tenant.
-# Willz Transport Ltd – Microsoft 365 Administration Lab
+# WILLZ Transport Ltd – Microsoft 365 Administration Lab
 
 ## Overview
 
-This project simulates the role of a Microsoft 365 Administrator responsible for deploying and managing Microsoft 365 services for a fictional transport and logistics company, **Willz Transport Ltd**.
+This project simulates the role of a Microsoft 365 Administrator responsible for deploying and managing Microsoft 365 services for a hire car company, **WILLZ Transport Ltd**.
 
 The lab demonstrates common administrative tasks performed in a real business environment, including user management, license assignment, collaboration tools, email administration, security configuration, and documentation.
 
@@ -14,7 +12,7 @@ The goal of this project is to develop practical Microsoft 365 administration sk
 
 ## Business Scenario
 
-Willz Transport Ltd is a small transport and logistics company with five employees. The company is transitioning to Microsoft 365 to improve communication, collaboration, and security.
+WILLZ Transport Ltd is a small hire car company with five employees. The company is transitioning to Microsoft 365 to improve communication, collaboration, and security.
 
 As the Microsoft 365 Administrator, my responsibilities include:
 
@@ -31,13 +29,13 @@ As the Microsoft 365 Administrator, my responsibilities include:
 
 ## Company Structure
 
-| Employee     | Position           | Department |
-| ------------ | ------------------ | ---------- |
-| William Ziko | Managing Director  | Executive  |
-| Sarah Kila   | Sales Officer      | Sales      |
-| Peter Aisi   | Operations Officer | Operations |
-| John Raka    | Driver             | Transport  |
-| Mary Pora    | Vehicle Detailer   | Workshop   |
+| Employee       | Position           | Department |
+| ------------   | ------------------ | ---------- |
+| Chase Patrol   | Director           | Executive  |
+| Skye Patrol    | Managing Director  | Executive  |
+| Zuma Patrol    | Sales Officer      | Sales      |
+| Rubble Patrol  | Driver             | Admin      |
+| Liberty Patrol | Vehicle Detailer   | Admin      |
 
 ---
 
@@ -188,4 +186,5 @@ This project demonstrates how Microsoft 365 services can be deployed and managed
 
 ## Disclaimer
 
-This project is for educational and portfolio purposes only. Willz Transport Ltd is a fictional company created to simulate a real Microsoft 365 administration environment.
+This project simulates a Microsoft 365 administration environment and is for educational and portfolio purposes only.
+WILLZ Transport Ltd is a registered company with IPA PNG and is used here as a fictional case study. All users, groups, email addresses, and data shown are fictional and do not represent real individuals or sensitive information.
