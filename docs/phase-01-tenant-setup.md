@@ -38,3 +38,6 @@ Update:
 | Technical Contact  | IT Administrator                                          |
 | Preferred Language | English                                                   | 
 | Time Zone          | UTC+10 (Papua New Guinea)                                 |
+
+## Project Note:
+This deployement was completed in a Microsoft 365 lab tenant named DSTechServices2026.onmicrosoft.com. In a production environment, the tenant would use the customer's verified custom domain willztransport.com for all user accounts and email addresses.
