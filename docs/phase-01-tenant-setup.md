@@ -1,1 +1,40 @@
+## Phase 1 - Microsoft 365 Tenant Setup
 
+## Objective
+
+Prepare the Microsoft 365 environment for WILLZ Transport Ltd before adding any users or services.
+
+## Deliverables:
+
+- [x] Microsoft 365 tenant created
+- [ ] Custom domain added
+- [ ] Domain verified
+- [ ] Administrator account secured
+- [ ] Security defaults enabled
+- [ ] Basic company information configured
+
+## Task 1 - Create the Microsoft 365 Tenant
+## Goal
+Provision a new Microsoft 365 tenant
+
+Example:
+Company Name: WILLZ Transport Ltd
+Tenant Name: willztransport
+Initial Domain: willztransport.onmicrosoft.com
+
+## Screenshot
+Screenshot showing Microsoft 365 Admin Center, Tenant Name, Tenant Domain
+File Path: screenshots/TenantCreated.png
+
+## Task 2 - Configure Company Profile
+Navigate to:
+  Settings > Organization Profile
+
+Update:
+| Setting            | Value                                                     |
+| Company Name       | WILLZ Transport Ltd                                       |
+| Address            | P.O. Box 123, Lae, 411, Morobe Province, Papua New Guinea |
+| Phone              | +675 7123 4567                                            |
+| Technical Contact  | IT Administrator                                          |
+| Preferred Language | English                                                   | 
+| Time Zone          | UTC+10 (Papua New Guinea)                                 |
