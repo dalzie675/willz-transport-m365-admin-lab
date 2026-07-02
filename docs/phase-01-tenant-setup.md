@@ -30,25 +30,17 @@ File Path: screenshots/TenantCreated.png
 Navigate to:
   Settings > Organization Profile
 
-Update:
-| Setting            | Value                                                     |
-| Company Name       | WILLZ Transport Ltd                                       |
-| Address            | P.O. Box 123, Lae, 411, Morobe Province, Papua New Guinea |
-| Phone              | +675 7123 4567                                            |
-| Technical Contact  | IT Administrator                                          |
-| Preferred Language | English                                                   | 
-| Time Zone          | UTC+10 (Papua New Guinea)                                 |
-
 ## Organization Profile
 
 | Setting | Value |
 |----------|-----------------------------|
-| Company Name | Willz Transport Ltd |
-| Address | Port Moresby, Papua New Guinea |
-| Phone | +675 312 3456 |
+| Company Name | WILLZ Transport Ltd |
+| Address | P.O. Box 123, Lae, 411, Morobe Province, Papua New Guinea |
+| Phone | +675 7123 4567 |
 | Technical Contact | IT Administrator |
 | Email | admin@willztransport.com |
 | Preferred Language | English |
 | Time Zone | (UTC+10:00) Port Moresby |
+
 ## Project Note:
 This deployement was completed in a Microsoft 365 lab tenant named DSTechServices2026.onmicrosoft.com. In a production environment, the tenant would use the customer's verified custom domain willztransport.com for all user accounts and email addresses.
