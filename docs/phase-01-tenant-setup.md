@@ -31,7 +31,7 @@ File Path: screenshots/phase-01/TenantCreated.png
 
 ## Task 2 - Configure Company Profile
 Navigate to:
-  Settings > Organization Profile
+  Settings > Org settings > Organization Profile > Organization Information
 
 ## Organization Profile
 
