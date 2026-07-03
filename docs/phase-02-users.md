@@ -40,26 +40,14 @@ At the end of this phase:
 | Rubble Patrol | rubble@DSTechServices2026.onmicrosoft.com |
 | Liberty Patrol | liberty@DSTechServices2026.onmicrosoft.com |
 
-**Note:** This project is using the lab tenant without a custom domain, thus the usernames look like example@DSTechServices2026.onmicrosoft.com. These represent users who would use @willztransport.com in a production encironment.
+**Note:** This project is using the lab tenant without a custom domain, thus the usernames look like example@DSTechServices2026.onmicrosoft.com. These represent users who would use @willztransport.com in a production environment.
 
-## Task 1 - Create the Microsoft 365 Tenant
-## Goal
-Provision a new Microsoft 365 tenant
+## Task 1 - Navigate to Microsoft 365 Admin Center
+Go to:
+Microsoft 365 Admin Center > Users > Active Users
 
-Example:
-Company Name: WILLZ Transport Ltd
-Tenant Name: willztransport
-Initial Domain: willztransport.onmicrosoft.com
-
-## Project Note:
-This deployement was completed in a Microsoft 365 lab tenant named **DSTechServices2026.onmicrosoft.com**. In a production environment, the tenant would use the customer's verified custom domain **willztransport.com** for all user accounts and email addresses.
-
-## Screenshot
-Screenshot showing Microsoft 365 Admin Center, Tenant Name, Tenant Domain
-File Path: screenshots/phase-01/TenantCreated.png
-
-## Task 2 - Configure Company Profile
-Navigate to:
+## Task 2 - Create Chase Patrol
+Fill in:
   Settings > Org settings > Organization Profile > Organization Information
 
 ## Organization Profile
