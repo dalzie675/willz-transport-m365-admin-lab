@@ -25,20 +25,22 @@ At the end of this phase:
 ## Employees
 | Name | Position | Department |
 |----------|-----------------------------|-----------------| 
-| William Johnson | Managing Director | Management |
-| Mary Kila | Office Administrator | Administration |
-| Peter Aisi | Sales Officer | Sales |
-| Daniel Kora | Driver | Operations |
-| Samuel Puka | Vehicle Detailer | Operations |
+| Chase Patrol | Director | Management |
+| Skye Patrol | Managing Director | Management |
+| Zuma Patrol | Sales Officer | Sales |
+| Rubble Patrol | Driver | Asministration |
+| Liberty Patrol | Vehicle Detailer | Administration |
 
 ## User Accounts
 | Display Name | UserName |
 |----------|-----------------------------|
-| William Johnson | william@willztransport.com |
-| Mary Kila | mary@willztransport.com |
-| Peter Aisi | peter@willztransport.com
-| Daniel Kora | daniel@willztransport.com |
-| Samuel Puka | samuel@willztransport.com |
+| Chase Patrol | chase@DSTechServices2026.onmicrosoft.com |
+| Skye Patrol | skye@DSTechServices2026.onmicrosoft.com |
+| Zuma Patrol | zuma@DSTechServices2026.onmicrosoft.com |
+| Rubble Patrol | rubble@DSTechServices2026.onmicrosoft.com |
+| Liberty Patrol | liberty@DSTechServices2026.onmicrosoft.com |
+
+**Note:** This project is using the lab tenant without a custom domain, thus the usernames look like example@DSTechServices2026.onmicrosoft.com. These represent users who would use @willztransport.com in a production encironment.
 
 ## Task 1 - Create the Microsoft 365 Tenant
 ## Goal
