@@ -45,3 +45,6 @@ Navigate to:
 | Preferred Language | English |
 | Time Zone | (UTC+10:00) Port Moresby |
 
+## Screenshot
+Screenshot showing Organization Profile settings.
+File Path: screenshots/phase-01/ConfigureCompanyProfile.png
