@@ -27,7 +27,7 @@ This deployement was completed in a Microsoft 365 lab tenant named **DSTechServi
 
 ## Screenshot
 Screenshot showing Microsoft 365 Admin Center, Tenant Name, Tenant Domain
-File Path: screenshots/TenantCreated.png
+File Path: screenshots/phase-01/TenantCreated.png
 
 ## Task 2 - Configure Company Profile
 Navigate to:
