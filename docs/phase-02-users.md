@@ -44,7 +44,7 @@ At the end of this phase:
 
 ## Task 1 - Navigate to Microsoft 365 Admin Center
 Go to:
-Microsoft 365 Admin Center > Users > Active Users
+Microsoft 365 Admin Center > Users > Active Users > Add a user
 
 ## Task 2 - Create User: Chase Patrol
 Fill in:
@@ -61,7 +61,8 @@ Fill in:
 | Country | Papua New Guinea |
 
 Enable:
-- Require password change on first sign-in [x]
+- [x] Create password automatically
+- [x] Require password change on first sign-in
 
 ## Screenshot
 Screenshot showing user 'Chase Patrol'.
