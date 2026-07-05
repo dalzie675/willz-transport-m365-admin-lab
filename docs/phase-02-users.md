@@ -49,6 +49,7 @@ Microsoft 365 Admin Center > Users > Active Users > Add a user
 ## Task 2 - Create User: Chase Patrol
 Fill in:
 
+- [x] Basics
 | Field | Value |
 |----------|-----------------------------|
 | First Name | Chase |
@@ -57,16 +58,27 @@ Fill in:
 | Username | chase@DSTechServices2026.onmicrosoft.com *(Lab)* |
 | Job Title | Director |
 | Department | Management |
-| Location | Lae |
+| Office | Lae |
 | Country | Papua New Guinea |
 
 Enable:
 - [x] Create password automatically
 - [x] Require password change on first sign-in
 
+- [x] Product License
+Enable:
+- [x] Assign a product license
+- [x] Microsoft Fabric (Free)
+- [ ] Office 365 E5
+
+Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
+
 ## Screenshot
-Screenshot showing user 'Chase Patrol'.
-File Path: screenshots/phase-02/CreateChase.png
+1. Screenshot showing Assign License to user Chase
+File Path: screenshots/phase-02/AssignLicenseChase.png
+
+2. Screenshot showing user Chase Patrol
+File Path: screenshots/phase-02/ChasePatrol.png
 
 ## Task 3 - Repeat for Repeat for Remaining Users.
 
