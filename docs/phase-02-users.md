@@ -46,23 +46,57 @@ At the end of this phase:
 Go to:
 Microsoft 365 Admin Center > Users > Active Users
 
-## Task 2 - Create Chase Patrol
+## Task 2 - Create User: Chase Patrol
 Fill in:
-  Settings > Org settings > Organization Profile > Organization Information
 
-## Organization Profile
-
-| Setting | Value |
+| Field | Value |
 |----------|-----------------------------|
-| Company Name | WILLZ Transport Ltd |
-| Address | P.O. Box 123, Lae, 411, Morobe Province, Papua New Guinea |
-| Phone | +675 7123 4567 |
-| Technical Contact | IT Administrator |
-| Email | admin@willztransport.com |
-| Preferred Language | English |
-| Time Zone | (UTC+10:00) Port Moresby |
+| First Name | Chase |
+| Last Name | Patrol |
+| Display Name | Chase Patrol |
+| Username | chase@DSTechServices2026.onmicrosoft.com *(Lab)* |
+| Job Title | Director |
+| Department | Management |
+| Location | Lae |
+| Country | Papua New Guinea |
+
+Enable:
+- Require password change on first sign-in [x]
 
 ## Screenshot
-Screenshot showing Organization Profile settings.
-File Path: screenshots/phase-01/ConfigureCompanyProfile.png
+Screenshot showing user 'Chase Patrol'.
+File Path: screenshots/phase-02/CreateChase.png
+
+## Task 3 - Repeat for Repeat for Remaining Users.
+
+Create:
+- Liberty Patrol
+- Skye Patrol
+- Zuma Patrol
+- Rubble Patrol
+- Liberty Patrol
+
+## Task 4 - Verify Active Users
+
+After creating all users:
+
+Navigate to:
+Users > Active Users
+Verify all five users appear.
+
+Take a screenshot:
+File Path: screenshots/phase-02/ActiveUsers.png
+
+## Task 5 - Configure User Details
+
+Open each user and complete additional profile information where appropriate.
+- Job Title
+- Department
+- Location
+
+## Task 6 - Password Policy
+
+Ensure each account:
+- Uses a strong temporary password
+- Is required to change the password at first sign-in
 
