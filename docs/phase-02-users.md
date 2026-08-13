@@ -50,6 +50,7 @@ Microsoft 365 Admin Center > Users > Active Users > Add a user
 Fill in:
 
 - [x] Basics
+
 | Field | Value |
 |----------|-----------------------------|
 | First Name | Chase |
@@ -80,10 +81,9 @@ File Path: screenshots/phase-02/AssignLicenseChase.png
 2. Screenshot showing user Chase Patrol
 File Path: screenshots/phase-02/ChasePatrol.png
 
-## Task 3 - Repeat for Repeat for Remaining Users.
+## Task 3 - Repeat for Remaining Users.
 
 Create:
-- Liberty Patrol
 - Skye Patrol
 - Zuma Patrol
 - Rubble Patrol
@@ -95,6 +95,7 @@ After creating all users:
 
 Navigate to:
 Users > Active Users
+
 Verify all five users appear.
 
 Take a screenshot:
