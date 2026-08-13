@@ -93,9 +93,9 @@ Fill in:
 
 | Field | Value |
 |----------|-----------------------------|
-| First Name | Sky |
+| First Name | Skye |
 | Last Name | Patrol |
-| Display Name | Sky Patrol |
+| Display Name | Skye Patrol |
 | Username | skye@DSTechServices2026.onmicrosoft.com *(Lab)* |
 | Job Title | Managing Director |
 | Department | Management |
@@ -115,11 +115,11 @@ Enable:
 Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
 
 ## Screenshot
-1. Screenshot showing Assign License to user Sky
-File Path: screenshots/phase-02/AssignLicenseSky.png
+1. Screenshot showing Assign License to user Skye
+File Path: screenshots/phase-02/AssignLicenseSkye.png
 
-2. Screenshot showing user Sky Patrol
-File Path: screenshots/phase-02/SkyPatrol.png
+2. Screenshot showing user Skye Patrol
+File Path: screenshots/phase-02/SkyePatrol.png
 
 ## - Zuma Patrol
 
