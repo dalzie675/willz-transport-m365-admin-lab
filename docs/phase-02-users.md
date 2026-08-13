@@ -28,7 +28,7 @@ At the end of this phase:
 | Chase Patrol | Director | Management |
 | Skye Patrol | Managing Director | Management |
 | Zuma Patrol | Sales Officer | Sales |
-| Rubble Patrol | Driver | Asministration |
+| Rubble Patrol | Driver | Administration |
 | Liberty Patrol | Vehicle Detailer | Administration |
 
 ## User Accounts
@@ -84,10 +84,150 @@ File Path: screenshots/phase-02/ChasePatrol.png
 ## Task 3 - Repeat for Remaining Users.
 
 Create:
-- Skye Patrol
-- Zuma Patrol
-- Rubble Patrol
-- Liberty Patrol
+
+## - Skye Patrol
+
+Fill in:
+
+- [x] Basics
+
+| Field | Value |
+|----------|-----------------------------|
+| First Name | Sky |
+| Last Name | Patrol |
+| Display Name | Sky Patrol |
+| Username | skye@DSTechServices2026.onmicrosoft.com *(Lab)* |
+| Job Title | Managing Director |
+| Department | Management |
+| Office | Lae |
+| Country | Papua New Guinea |
+
+Enable:
+- [x] Create password automatically
+- [x] Require password change on first sign-in
+
+- [x] Product License
+Enable:
+- [x] Assign a product license
+- [x] Microsoft Fabric (Free)
+- [ ] Office 365 E5
+
+Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
+
+## Screenshot
+1. Screenshot showing Assign License to user Sky
+File Path: screenshots/phase-02/AssignLicenseSky.png
+
+2. Screenshot showing user Sky Patrol
+File Path: screenshots/phase-02/SkyPatrol.png
+
+## - Zuma Patrol
+
+Fill in:
+
+- [x] Basics
+
+| Field | Value |
+|----------|-----------------------------|
+| First Name | Zuma |
+| Last Name | Patrol |
+| Display Name | Zuma Patrol |
+| Username | zuma@DSTechServices2026.onmicrosoft.com *(Lab)* |
+| Job Title | Sales Officer |
+| Department | Sales |
+| Office | Lae |
+| Country | Papua New Guinea |
+
+Enable:
+- [x] Create password automatically
+- [x] Require password change on first sign-in
+
+- [x] Product License
+Enable:
+- [x] Assign a product license
+- [x] Microsoft Fabric (Free)
+- [ ] Office 365 E5
+
+Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
+
+## Screenshot
+1. Screenshot showing Assign License to user Zuma
+File Path: screenshots/phase-02/AssignLicenseZuma.png
+
+2. Screenshot showing user Zuma Patrol
+File Path: screenshots/phase-02/ZumaPatrol.png
+
+## - Rubble Patrol
+
+Fill in:
+
+- [x] Basics
+
+| Field | Value |
+|----------|-----------------------------|
+| First Name | Rubble |
+| Last Name | Patrol |
+| Display Name | Rubble Patrol |
+| Username | rubble@DSTechServices2026.onmicrosoft.com *(Lab)* |
+| Job Title | Driver |
+| Department | Administration |
+| Office | Lae |
+| Country | Papua New Guinea |
+
+Enable:
+- [x] Create password automatically
+- [x] Require password change on first sign-in
+
+- [x] Product License
+Enable:
+- [x] Assign a product license
+- [x] Microsoft Fabric (Free)
+- [ ] Office 365 E5
+
+Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
+
+## Screenshot
+1. Screenshot showing Assign License to user Rubble
+File Path: screenshots/phase-02/AssignLicenseRubble.png
+
+2. Screenshot showing user Rubble Patrol
+File Path: screenshots/phase-02/RubblePatrol.png
+
+## - Liberty Patrol
+
+Fill in:
+
+- [x] Basics
+
+| Field | Value |
+|----------|-----------------------------|
+| First Name | Liberty |
+| Last Name | Patrol |
+| Display Name | Liberty Patrol |
+| Username | liberty@DSTechServices2026.onmicrosoft.com *(Lab)* |
+| Job Title | Vehicle Detailer |
+| Department | Administration |
+| Office | Lae |
+| Country | Papua New Guinea |
+
+Enable:
+- [x] Create password automatically
+- [x] Require password change on first sign-in
+
+- [x] Product License
+Enable:
+- [x] Assign a product license
+- [x] Microsoft Fabric (Free)
+- [ ] Office 365 E5
+
+Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a production environment, this would be checked.
+
+## Screenshot
+1. Screenshot showing Assign License to user Liberty
+File Path: screenshots/phase-02/AssignLicenseLiberty.png
+
+2. Screenshot showing user Liberty Patrol
+File Path: screenshots/phase-02/LibertyPatrol.png
 
 ## Task 4 - Verify Active Users
 
