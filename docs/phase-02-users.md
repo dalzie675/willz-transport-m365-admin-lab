@@ -254,3 +254,8 @@ Ensure each account:
 - Uses a strong temporary password
 - Is required to change the password at first sign-in
 
+## Key Takeaways:
+
+- Automatically generated passwords are not stored (in plain-text for security reasons) and cannot be viewed after the initial creation screen.
+- Passwords should be copied or printed during user creation, otherwise, reset password.
+
