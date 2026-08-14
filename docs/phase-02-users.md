@@ -62,13 +62,13 @@ Fill in:
 | Office | Lae |
 | Country | Papua New Guinea |
 
-Enable:
-- [x] Create password automatically
-- [x] Require password change on first sign-in
+Check:
+- [x] Automatically create a password
+- [x] Require this user to change their password when they first sign-in
 
-- [x] Product License
-Enable:
-- [x] Assign a product license
+## Assign product licenses
+Check:
+- [x] Assign user a product license
 - [x] Microsoft Fabric (Free)
 - [ ] Office 365 E5
 
@@ -102,13 +102,13 @@ Fill in:
 | Office | Lae |
 | Country | Papua New Guinea |
 
-Enable:
-- [x] Create password automatically
-- [x] Require password change on first sign-in
+Check:
+- [x] Automatically create a password
+- [x] Require this user to change their password when they first sign-in
 
-- [x] Product License
-Enable:
-- [x] Assign a product license
+## Assign product licenses
+Check:
+- [x] Assign user a product license
 - [x] Microsoft Fabric (Free)
 - [ ] Office 365 E5
 
@@ -138,13 +138,13 @@ Fill in:
 | Office | Lae |
 | Country | Papua New Guinea |
 
-Enable:
-- [x] Create password automatically
-- [x] Require password change on first sign-in
+Check:
+- [x] Automatically create a password
+- [x] Require this user to change their password when they first sign-in
 
-- [x] Product License
-Enable:
-- [x] Assign a product license
+## Assign product licenses
+Check:
+- [x] Assign user a product license
 - [x] Microsoft Fabric (Free)
 - [ ] Office 365 E5
 
@@ -174,13 +174,13 @@ Fill in:
 | Office | Lae |
 | Country | Papua New Guinea |
 
-Enable:
-- [x] Create password automatically
-- [x] Require password change on first sign-in
+Check:
+- [x] Automatically create a password
+- [x] Require this user to change their password when they first sign-in
 
-- [x] Product License
-Enable:
-- [x] Assign a product license
+## Assign product licenses
+Check:
+- [x] Assign user a product license
 - [x] Microsoft Fabric (Free)
 - [ ] Office 365 E5
 
@@ -210,13 +210,13 @@ Fill in:
 | Office | Lae |
 | Country | Papua New Guinea |
 
-Enable:
-- [x] Create password automatically
-- [x] Require password change on first sign-in
+Check:
+- [x] Automatically create a password
+- [x] Require this user to change their password when they first sign-in
 
-- [x] Product License
-Enable:
-- [x] Assign a product license
+## Assign product licenses
+Check:
+- [x] Assign user a product license
 - [x] Microsoft Fabric (Free)
 - [ ] Office 365 E5
 
