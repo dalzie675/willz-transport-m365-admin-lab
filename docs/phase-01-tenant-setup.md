@@ -23,7 +23,7 @@ Tenant Name: willztransport
 Initial Domain: willztransport.onmicrosoft.com
 
 ## Project Note:
-This deployement was completed in a Microsoft 365 lab tenant named **DSTechServices2026.onmicrosoft.com**. In a production environment, the tenant would use the customer's verified custom domain **willztransport.com** for all user accounts and email addresses.
+This deployment was completed in a Microsoft 365 lab tenant named **DSTechServices2026.onmicrosoft.com**. In a production environment, the tenant would use the customer's verified custom domain **willztransport.com** for all user accounts and email addresses.
 
 ## Screenshot
 Screenshot showing Microsoft 365 Admin Center, Tenant Name, Tenant Domain
