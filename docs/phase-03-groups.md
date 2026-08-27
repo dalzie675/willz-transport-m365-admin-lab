@@ -1,4 +1,4 @@
-<img width="1622" height="743" alt="image" src="https://github.com/user-attachments/assets/124308e7-e0cd-48bf-aae5-26a8abc60098" />## Phase 3 - Groups
+## Phase 3 - Groups
 
 ## Objective
 
