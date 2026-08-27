@@ -76,10 +76,12 @@ Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a prod
 
 ## Screenshot
 1. Screenshot showing Assign License to user Chase
-File Path: screenshots/phase-02/AssignLicenseChase.png
+
+   File Path: screenshots/phase-02/AssignLicenseChase.png
 
 2. Screenshot showing user Chase Patrol
-File Path: screenshots/phase-02/ChasePatrol.png
+
+   File Path: screenshots/phase-02/ChasePatrol.png
 
 ## Task 3 - Repeat for Remaining Users.
 
@@ -116,10 +118,12 @@ Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a prod
 
 ## Screenshot
 1. Screenshot showing Assign License to user Skye
-File Path: screenshots/phase-02/AssignLicenseSkye.png
+
+   File Path: screenshots/phase-02/AssignLicenseSkye.png
 
 2. Screenshot showing user Skye Patrol
-File Path: screenshots/phase-02/SkyePatrol.png
+
+   File Path: screenshots/phase-02/SkyePatrol.png
 
 ## - Zuma Patrol
 
@@ -152,10 +156,12 @@ Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a prod
 
 ## Screenshot
 1. Screenshot showing Assign License to user Zuma
-File Path: screenshots/phase-02/AssignLicenseZuma.png
+
+   File Path: screenshots/phase-02/AssignLicenseZuma.png
 
 2. Screenshot showing user Zuma Patrol
-File Path: screenshots/phase-02/ZumaPatrol.png
+
+   File Path: screenshots/phase-02/ZumaPatrol.png
 
 ## - Rubble Patrol
 
@@ -188,10 +194,12 @@ Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a prod
 
 ## Screenshot
 1. Screenshot showing Assign License to user Rubble
-File Path: screenshots/phase-02/AssignLicenseRubble.png
+
+   File Path: screenshots/phase-02/AssignLicenseRubble.png
 
 2. Screenshot showing user Rubble Patrol
-File Path: screenshots/phase-02/RubblePatrol.png
+
+   File Path: screenshots/phase-02/RubblePatrol.png
 
 ## - Liberty Patrol
 
@@ -224,10 +232,12 @@ Lab Note: Office 365 E5 unchecked as no license for this lab. However, in a prod
 
 ## Screenshot
 1. Screenshot showing Assign License to user Liberty
-File Path: screenshots/phase-02/AssignLicenseLiberty.png
+
+   File Path: screenshots/phase-02/AssignLicenseLiberty.png
 
 2. Screenshot showing user Liberty Patrol
-File Path: screenshots/phase-02/LibertyPatrol.png
+
+   File Path: screenshots/phase-02/LibertyPatrol.png
 
 ## Task 4 - Verify Active Users
 
