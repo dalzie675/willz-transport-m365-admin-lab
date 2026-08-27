@@ -55,6 +55,10 @@ Add users Director & Managing Director
 
 **!!Refresh!!**
 
+## Screenshot
+1. Screenshot showing Security Group for WILLZ Transport management staff.
+File Path: screenshots/phase-03/WTManagementSG.png
+
 ## Step 3 - Repeat for the other security groups.
 
 Create:
