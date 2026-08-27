@@ -1,4 +1,4 @@
-## Phase 3 - Groups
+<img width="1622" height="743" alt="image" src="https://github.com/user-attachments/assets/124308e7-e0cd-48bf-aae5-26a8abc60098" />## Phase 3 - Groups
 
 ## Objective
 
@@ -58,7 +58,7 @@ Add users Director & Managing Director
 ## Screenshot
 1. Screenshot showing Security Group for WILLZ Transport management staff.
 
-File Path: screenshots/phase-03/WTManagementSG.png
+   File Path: screenshots/phase-03/WTManagementSG.png
 
 ## Step 3 - Repeat for the other security groups.
 
@@ -69,6 +69,19 @@ Create:
 **WT-Administration-SG** and add users Driver & Vehicle Detailer
 
 **WT-All-Staff-SG** and add all five users
+
+## Screenshot
+1. Screenshot showing Security Group for WILLZ Transport sales staff.
+
+   File Path: screenshots/phase-03/WTSalesSG.png
+
+2. Screenshot showing Security Group for WILLZ Transport administration staff.
+
+   File Path: screenshots/phase-03/WTAdministrationSG.png
+
+3. Screenshot showing Security Group for WILLZ Transport all staff.
+
+   File Path: screenshots/phase-03/WTAllStaffSG.png
 
 ## Step 4 - Create a Microsoft 365 Group
 
