@@ -91,7 +91,7 @@ Set:
 
 **Group Type:** Microsoft 365
 
-**Group Name:** WT-Management
+**Group Name:** WT-Management-M365
 
 **Description:** Security group for WILLZ Transport management staff.
 
