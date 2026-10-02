@@ -120,9 +120,65 @@ Add users Director & Managing Director
 
 Create:
 
-**WT-Sales** and add user Sales Officer
+**WT-Sales-M365** and add user Sales Officer
 
-**WT-Administration-SG** and add users Driver & Vehicle Detailer
+**WT-Administration-M365** and add users Driver & Vehicle Detailer
+
+Set:
+
+**Group Type:** Microsoft 365
+
+**Group Name:** WT-Sales-M365
+
+**Description:** Security group for WILLZ Transport sales staff.
+
+**Membership Type:** Assigned
+
+**Owners:** 
+
+**Member:** 
+
+**Group Email Address:** sales@DSTechServices2026.onmicrosoft.com
+**Sensitivity:** None
+**Privacy:** Public
+
+> Select > **Create Group**
+
+**!!Refresh!!**
+
+## Screenshot
+
+1. Screenshot showing Microsoft 365 Group for WILLZ Transport sales staff.
+
+   File Path: screenshots/phase-03/WTSalesM365.png
+
+Set:
+
+**Group Type:** Microsoft 365
+
+**Group Name:** WT-Administration-M365
+
+**Description:** Security group for WILLZ Transport administration staff.
+
+**Membership Type:** Assigned
+
+**Owners:** 
+
+**Member:** 
+
+**Group Email Address:** admin@DSTechServices2026.onmicrosoft.com
+**Sensitivity:** None
+**Privacy:** Public
+
+> Select > **Create Group**
+
+**!!Refresh!!**
+
+## Screenshot
+
+1. Screenshot showing Microsoft 365 Group for WILLZ Transport administration staff.
+
+   File Path: screenshots/phase-03/WTAdminM365.png
 
 ## Key Takeaways:
 
