@@ -97,13 +97,24 @@ Set:
 
 **Membership Type:** Assigned
 
-**Owners:** No owners selected
+**Owners:** Chase Patrol & Skye Patrol
 
 Add users Director & Managing Director
 
-**Member:** Chase Patrol; Skye Patrol > Select > **Create**
+**Member:** Chase Patrol; Skye Patrol 
+
+**Group Email Address:** manage@DSTechServices2026.onmicrosoft.com
+**Sensitivity:** None
+**Privacy:** Public
+
+> Select > **Create Group**
 
 **!!Refresh!!**
+
+## Screenshot
+1. Screenshot showing Microsoft 365 Group for WILLZ Transport management staff.
+
+   File Path: screenshots/phase-03/WTManagementM365.png
 
 ## Repeat for the other groups
 
