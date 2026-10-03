@@ -93,15 +93,13 @@ Set:
 
 **Group Name:** WT-Management-M365
 
-**Description:** Security group for WILLZ Transport management staff.
+**Description:** Microsoft 365 group for WILLZ Transport management staff.
 
 **Membership Type:** Assigned
 
-**Owners:** Chase Patrol & Skye Patrol
+**Owners:** Skye Patrol
 
-Add users Director & Managing Director
-
-**Member:** Chase Patrol; Skye Patrol 
+**Member:** Chase Patrol
 
 **Group Email Address:** manage@DSTechServices2026.onmicrosoft.com
 **Sensitivity:** None
@@ -120,9 +118,9 @@ Add users Director & Managing Director
 
 Create:
 
-**WT-Sales-M365** and add user Sales Officer
+**WT-Sales-M365** and add user Zuma Patrol as group owner. No members.
 
-**WT-Administration-M365** and add users Driver & Vehicle Detailer
+**WT-Administration-M365** and add users Rubble Patrol as group owner and Liberty Patrol as a member.
 
 Set:
 
@@ -130,11 +128,11 @@ Set:
 
 **Group Name:** WT-Sales-M365
 
-**Description:** Security group for WILLZ Transport sales staff.
+**Description:** Microsoft 365 group for WILLZ Transport sales staff.
 
 **Membership Type:** Assigned
 
-**Owners:** 
+**Owners:** Zuma Patrol
 
 **Member:** 
 
@@ -158,13 +156,13 @@ Set:
 
 **Group Name:** WT-Administration-M365
 
-**Description:** Security group for WILLZ Transport administration staff.
+**Description:** Microsoft 365 group for WILLZ Transport administration staff.
 
 **Membership Type:** Assigned
 
-**Owners:** 
+**Owners:** Rubble Patrol
 
-**Member:** 
+**Member:** Liberty Patrol
 
 **Group Email Address:** admin@DSTechServices2026.onmicrosoft.com
 **Sensitivity:** None
