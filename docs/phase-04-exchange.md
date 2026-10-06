@@ -23,9 +23,21 @@ Email: info@DSTechServices2026.onmicrosoft.com
 
 Create.
 
+## Screenshot
+
+1. Screenshot showing creating a shared mailbox in Microsoft Exchange admin center.
+
+   File Path: screenshots/phase-04/SharedMailbox.png
+
 
 ## Note: An error occurred as this current subscription is not licensed for Exchange. Refer error message below:
 “Error executing request. The following error occurred during validation in agent 'Substrate Only Agent': 'Organization "DSTechServices2026.onmicrosoft.com" is not licensed for Exchange email functionality. Cmdlet usage is restricted.”
+
+## Screenshot
+
+1. Screenshot showing shared mailbox error message.
+
+   File Path: screenshots/phase-04/SharedMailboxErrorMsg.png
 
 ## However, in a production environment, a shared mailbox would have been created.
 
